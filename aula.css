@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+}
+fieldset{
+    text-align: center;
+}
+
+legend{
+    text-align: left;
+}
+
+h1{
+    color: brown;
+}
+h2{
+    color: red;
+}
